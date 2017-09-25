@@ -9,7 +9,7 @@ We provide two printing sizes, A4 and A3. Each file contains the front and back 
 The cards can be inexpensively printed by your local or university print shop and look best on high gloss card stock.
 
 ## Ideas for use:  
-![Elegans](https://github.com/PokeMods/PokeMods.github.io/blob/master/images/English/Elegans.png)![Drosophila](https://github.com/PokeMods/PokeMods.github.io/blob/master/images/English/Drosophila.png)![Cells](https://github.com/PokeMods/PokeMods.github.io/blob/master/images/English/Cells.png)
+<img src="https://github.com/PokeMods/PokeMods.github.io/blob/master/images/English/Elegans.png" width="181" height="254"/><img src="https://github.com/PokeMods/PokeMods.github.io/blob/master/images/English/Drosophila.png" width="181" height="254"/><img src="https://github.com/PokeMods/PokeMods.github.io/blob/master/images/English/Cells.png" width="181" height="254"/>
 
 ### 2016 fête de la science  
 We used these cards with much success for the 2016 fete de la science. We 'hid' the cards at different tents that were also hosting activities. 
